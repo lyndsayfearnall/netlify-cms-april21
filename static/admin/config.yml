@@ -3,6 +3,9 @@
 #   repo: lyndsayfearnall/netlify-cms-april21
 backend:
   name: git-gateway
+  accept_roles:
+    - admin
+    - editor
 
 media_folder: static/assets
 public_folder: assets
