@@ -1,8 +1,8 @@
+# backend:
+#   name: github
+#   repo: lyndsayfearnall/netlify-cms-april21
 backend:
-  name: github
-  repo: lyndsayfearnall/netlify-cms-april21
-# backend: 
-#   name: git-gateway
+  name: git-gateway
 
 media_folder: static/assets
 public_folder: assets
